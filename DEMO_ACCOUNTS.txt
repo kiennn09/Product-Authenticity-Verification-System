@@ -1,0 +1,11 @@
+Tài khoản dùng cho demo (VÍ TEST SEPOLIA - không có giá trị thật, không dùng cho mục đích khác)
+
+Admin (deployer)  : 0x7cd25FF62640fCfF66b2DF85D8Ee119c02CdB2cC  (ví MetaMask "Account 1" của nhóm)
+Contract          : 0xF76C9abf63234a4Ae80A9ba3da7a7a389411ad87
+Nhà sản xuất      : 0x5b5eE842c3DA8501f0B7F022C04F3c2aaDfC18ec
+  Private key     : 0x3dbcaecb2f9762fdee2b11eb90ec06b0cde228d4f666498f6ff9fe96984ee431
+  -> Import vào MetaMask (Add account > Import account) để đóng vai Nhà sản xuất khi quay demo.
+Relayer (backend) : 0xeC0450E6a6078b07Ef8411ee589424Ad6D027FF6  (key đã nằm trong backend/.env)
+
+Blockscout: https://eth-sepolia.blockscout.com/address/0xF76C9abf63234a4Ae80A9ba3da7a7a389411ad87
+Etherscan : https://sepolia.etherscan.io/address/0xF76C9abf63234a4Ae80A9ba3da7a7a389411ad87

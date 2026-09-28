@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment / secret files
+.env
+.env.*
+!.env.example
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
